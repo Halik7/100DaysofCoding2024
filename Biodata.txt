@@ -1,0 +1,4 @@
+1  Nama  : KHALIQ
+2  Nim   : D0224328
+3  Kelas : Informatika D
+4  Angkatan : 2024
